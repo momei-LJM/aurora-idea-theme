@@ -1,0 +1,20 @@
+<idea-plugin>
+    <id>com.aurora.dracula-theme</id>
+    <name>Aurora Dracula Theme</name>
+    <vendor>Aurora</vendor>
+    <description>A beautiful dark theme based on Dracula</description>
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <themeProvider id="com.aurora.dracula" path="/themes/Evondev_Dracula.theme.json"/>
+        <themeProvider id="com.aurora.dracula-author" path="/themes/Evondev_Dracula_Author.theme.json"/>
+        <themeProvider id="com.aurora.dracula-darker-contrast" path="/themes/Evondev_Dracula_Darker_Contrast.theme.json"/>
+        <themeProvider id="com.aurora.dracula-darker-contrast-new-color" path="/themes/Evondev_Dracula_Darker_Contrast_New_Color.theme.json"/>
+        <themeProvider id="com.aurora.dracula-normal-contrast" path="/themes/Evondev_Dracula_Normal_Contrast.theme.json"/>
+        <themeProvider id="com.aurora.dracula-new-contrast" path="/themes/Evondev_Dracula_New_Contrast.theme.json"/>
+        <themeProvider id="com.aurora.dracula-high-contrast" path="/themes/Evondev_Dracula_High_Contrast.theme.json"/>
+        <themeProvider id="com.aurora.dracula-high-contrast-new-color" path="/themes/Evondev_Dracula_High_Contrast_New_Color.theme.json"/>
+        <themeProvider id="com.aurora.dracula-night-contrast" path="/themes/Evondev_Dracula_Night_Contrast.theme.json"/>
+        <themeProvider id="com.aurora.dracula-night-contrast-new-color" path="/themes/Evondev_Dracula_Night_Contrast_New_Color.theme.json"/>
+    </extensions>
+</idea-plugin>
