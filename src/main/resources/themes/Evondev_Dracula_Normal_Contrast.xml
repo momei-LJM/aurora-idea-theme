@@ -217,27 +217,6 @@
     </option>
 
     <!-- Functions -->
-    <option name="FUNCTION_DECLARATION">
-      <value>
-        <option name="FOREGROUND" value="20e3b2" />
-      </value>
-    </option>
-    <option name="FUNCTION_CALL">
-      <value>
-        <option name="FOREGROUND" value="20e3b2" />
-      </value>
-    </option>
-    <option name="METHOD_DECLARATION">
-      <value>
-        <option name="FOREGROUND" value="20e3b2" />
-      </value>
-    </option>
-    <option name="METHOD_CALL">
-      <value>
-        <option name="FOREGROUND" value="20e3b2" />
-      </value>
-    </option>
-
     <!-- Classes and Types -->
     <option name="CLASS_NAME">
       <value>
